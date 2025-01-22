@@ -5,7 +5,7 @@
 package studentlist;
 
 /**
- *
+ *Name:Dharmik Patel
  * @author fagun at 12/05/2024
  */
 public class Student {
